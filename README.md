@@ -23,6 +23,7 @@ Sistema de controle financeiro pessoal: contas, categorias, parcelamento de cart
 Plataforma de e-commerce completa: catálogo, carrinho, checkout com pagamento real (Mercado Pago), wishlist, avaliações e painel admin.
 **Stack:** FastAPI · React + TypeScript · PostgreSQL · Tailwind CSS
 **Testes:** Pytest + Playwright (E2E)
+**Demo:** https://e-commerce-mauve-iota-29.vercel.app
 
 ### 📝 [Sistema de Cadastro e Jogos](https://github.com/matheusf8/sistema-de-cadastro-e-jogos)
 Plataforma full-stack com autenticação de usuários, CRUD de notas e mini-games (Calculadora e Jogo da Cobrinha).
