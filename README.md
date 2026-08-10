@@ -1,6 +1,6 @@
-# Olá, eu sou o Matheus 👋
+# Matheus 
 
-Dev full-stack focado em **Python/FastAPI** no backend e **React** no frontend. Gosto de construir sistemas completos — do banco de dados ao deploy em produção — com autenticação segura, testes automatizados e Docker.
+Focado em **Python/FastAPI** no backend e **React** no frontend. Gosto de aprender construindo sistemas, essa pratica leva a entender melhor as coisas — do banco de dados ao deploy em produção — com autenticação segura, testes automatizados e Docker.
 
 ## 🛠️ Stack
 
@@ -32,8 +32,6 @@ Plataforma full-stack com autenticação de usuários, CRUD de notas e mini-game
 ---
 
 Todos os projetos acima têm **autenticação JWT**, **testes automatizados** e **suporte a Docker**.
-
-## 📫 Contato
 
 - Email: matheuslobofranco@gmail.com
 - GitHub: [@matheusf8](https://github.com/matheusf8)
