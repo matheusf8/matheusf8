@@ -13,6 +13,11 @@ Focado em **Python/FastAPI** no backend e **React** no frontend. Gosto de aprend
 
 ## 🚀 Projetos em destaque
 
+### 🤖 [Chat com Documentos (RAG)](https://github.com/matheusf8/chat-com-documentos)
+Upload de PDF/texto e chat com o documento: o conteúdo é quebrado em trechos, vira embeddings gerados localmente, e só os trechos mais relevantes pra pergunta são enviados como contexto pra API da Claude (RAG — Retrieval-Augmented Generation), evitando alucinação.
+**Stack:** FastAPI · React · SQLite · JWT · Embeddings locais · Claude API
+**Testado e rodando via Docker** (backend e frontend, cada um com seu Dockerfile, orquestrados com docker-compose) — projeto feito também pra praticar containerização.
+
 ### 💰 [FinControl](https://github.com/matheusf8/FinControl)
 Sistema de controle financeiro pessoal: contas, categorias, parcelamento de cartão, metas e dashboard com gráficos.
 **Stack:** FastAPI · React (Vite) · PostgreSQL · JWT · Docker
@@ -23,10 +28,6 @@ Plataforma de e-commerce completa: catálogo, carrinho, checkout com pagamento r
 **Stack:** FastAPI · React + TypeScript · PostgreSQL · Tailwind CSS
 **Testes:** Pytest + Playwright (E2E)
 **Demo:** https://e-commerce-mauve-iota-29.vercel.app
-
-### 📝 [Sistema de Cadastro e Jogos](https://github.com/matheusf8/sistema-de-cadastro-e-jogos)
-Plataforma full-stack com autenticação de usuários, CRUD de notas e mini-games (Calculadora e Jogo da Cobrinha).
-**Stack:** FastAPI · React · SQLite · JWT
 
 ---
 
