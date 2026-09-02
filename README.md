@@ -11,6 +11,15 @@ Uso o Claude (Anthropic) no desenvolvimento em quatro frentes:
 - **Claude Cowork** — fluxos agênticos com tarefas em paralelo
 - **Claude API / Agent SDK** — apps e agentes próprios sobre os modelos Claude
 
+## 🤖 Claude no meu fluxo
+
+Uso o Claude (Anthropic) no desenvolvimento em quatro frentes:
+
+- **Claude Code** — codificação no terminal: features, refactor, debugging e review no repo
+- **Claude Chat** — arquitetura, prototipagem e problemas pontuais
+- **Claude Cowork** — fluxos agênticos com tarefas em paralelo
+- **Claude API / Agent SDK** — apps e agentes próprios sobre os modelos Claude
+
 ## 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
