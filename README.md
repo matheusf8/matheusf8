@@ -2,6 +2,15 @@
 
 Focado em **Python/FastAPI** no backend e **React** no frontend. Gosto de aprender construindo sistemas, essa pratica leva a entender melhor as coisas — do banco de dados ao deploy em produção — com autenticação segura, testes automatizados e Docker.
 
+## 🤖 Claude no meu fluxo
+
+Uso o Claude (Anthropic) no desenvolvimento em quatro frentes:
+
+- **Claude Code** — codificação no terminal: features, refactor, debugging e review no repo
+- **Claude Chat** — arquitetura, prototipagem e problemas pontuais
+- **Claude Cowork** — fluxos agênticos com tarefas em paralelo
+- **Claude API / Agent SDK** — apps e agentes próprios sobre os modelos Claude
+
 ## 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
