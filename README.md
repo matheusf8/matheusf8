@@ -1,13 +1,6 @@
-# Matheus Franco
-
-Desenvolvedor Full Stack Júnior · Python/FastAPI e React · Senador Canedo, GO
-
-Formado em Ciência da Computação, cursando pós-graduação em Inteligência Artificial (FIAP).
+Desenvolvedor Full Stack Júnior · Python/FastAPI e React 
 
 ## 🤖 Claude no fluxo
-
-Uso o **Claude Code** como apoio no desenvolvimento dos meus projetos, e os commits mostram isso
-(`Co-Authored-By`). Meu foco é aprender o básico direito e entender cada vez melhor como tudo funciona.
 
 ## 🛠️ Stack
 
@@ -24,16 +17,10 @@ Uso o **Claude Code** como apoio no desenvolvimento dos meus projetos, e os comm
 ## 🚀 Projetos
 
 ### ✅ [API de Tarefas](https://github.com/matheusf8/api-tarefas)
-Projeto pequeno feito etapa por etapa para fixar o básico: CRUD, banco com SQLAlchemy, cadastro e login com JWT, testes com Pytest e uma tela em React.
 
 ### 💰 [FinControl](https://github.com/matheusf8/FinControl)
-Controle financeiro pessoal que uso no dia a dia, hospedado, com contas, cartões parcelados, metas e dashboard. Mais de 100 testes automatizados e CI.
 
 ### 🛒 [E-commerce](https://github.com/matheusf8/e-commerce)
-Loja de estudo com catálogo, carrinho, checkout (Mercado Pago em sandbox), painel admin, testes de API e E2E e CI. [Ver demo](https://e-commerce-mauve-iota-29.vercel.app)
-
-### 🤖 [Chat com Documentos (RAG)](https://github.com/matheusf8/chat-com-documentos)
-Upload de PDF e perguntas respondidas por IA com base no conteúdo, para praticar RAG e Docker.
 
 ---
 - Email: matheuslobofranco@gmail.com
