@@ -16,10 +16,10 @@ Desenvolvedor Full Stack Júnior · Python/FastAPI e React
 ## 🚀 Projetos principais
 
 ### ✅ [API de Tarefas](https://github.com/matheusf8/api-tarefas)
-Lista de tarefas full stack: API em FastAPI com JWT, bcrypt, SQLAlchemy e pytest, mais frontend em React.
+Lista de tarefas.
 
 ### 🎮 [API Cadastro (Rebote)](https://github.com/matheusf8/api-cadastro)
-Cadastro e login com JWT (access + refresh com renovação automática) e um mini jogo Breakout com ranking. FastAPI, React/Vite, SQLite, 74 testes no back e 26 no motor do jogo.
+Cadastro e login.
 
 ### 🧹 [Help Desk](https://github.com/matheusf8/help-desk)
 Ferramenta em Python que diagnostica e limpa o Windows com segurança, passo a passo, por menu numerado.
