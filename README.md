@@ -13,13 +13,16 @@ Desenvolvedor Full Stack Júnior · Python/FastAPI e React
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
-## 🚀 Projetos
+## 🚀 Projetos principais
 
 ### ✅ [API de Tarefas](https://github.com/matheusf8/api-tarefas)
+Lista de tarefas full stack: API em FastAPI com JWT, bcrypt, SQLAlchemy e pytest, mais frontend em React.
 
-### 💰 [FinControl](https://github.com/matheusf8/FinControl)
+### 🎮 [API Cadastro (Rebote)](https://github.com/matheusf8/api-cadastro)
+Cadastro e login com JWT (access + refresh com renovação automática) e um mini jogo Breakout com ranking. FastAPI, React/Vite, SQLite, 74 testes no back e 26 no motor do jogo.
 
-### 🛒 [E-commerce](https://github.com/matheusf8/e-commerce)
+### 🧹 [Help Desk](https://github.com/matheusf8/help-desk)
+Ferramenta em Python que diagnostica e limpa o Windows com segurança, passo a passo, por menu numerado.
 
 ---
 - Email: matheuslobofranco@gmail.com
