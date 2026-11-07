@@ -1,4 +1,4 @@
-Desenvolvedor Full Stack Júnior · Python/FastAPI e React 
+Desenvolvedor Backend Júnior · Python/FastAPI
 
 ## 🤖 Claude no fluxo
 
