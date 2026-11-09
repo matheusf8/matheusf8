@@ -11,7 +11,7 @@ Desenvolvedor Backend Júnior · Python/FastAPI
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
-## 🚀 Projetos principais
+Projetos 
 
 ### ✅ [API de Tarefas](https://github.com/matheusf8/api-tarefas)
 Lista de tarefas.
